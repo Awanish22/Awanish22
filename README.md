@@ -1,8 +1,4 @@
 
-### ✅ Correct
-Just paste **directly** like this in `README.md`:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Awanish Kumar</h1>
 <h3 align="center">Laravel Developer | AI Enthusiast | Backend Engineer</h3>
 
