@@ -39,16 +39,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=awanish22&theme=tokyonight&column=7"/>
-
-</p>
-
----
-
 ## 🚀 Projects
 
 | Project                   | Description                       |
